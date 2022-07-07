@@ -28,7 +28,7 @@
         "vue-template-compiler": "^2.6.10"
     },
     "dependencies": {
-        "moment": "^2.24.0",
+        "moment": "^2.29.4",
         "react-input-mask": "^2.0.4",
         "housecall": "^1.4.1",
         "react-toastify": "^5.3.2",
